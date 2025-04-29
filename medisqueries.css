@@ -1,0 +1,77 @@
+@media screen and (max-width: 784px) {
+    #desktop-nav {
+        display: none;
+    }
+
+    #hamburger-nav {
+        display: flex;
+    }
+   .hamburger-menu {
+    margin: 0 40%;
+   }
+
+   .font {
+    font-size: 3rem;
+    margin-right: 30px;
+   }
+
+   .font-p {
+    font-size: 1.8rem;
+    margin-right: 30px;
+   }
+
+   .para {
+    width: 70%;
+    margin-right: 80px;
+   }
+
+   .text-area-1 {
+    width: 80%;
+    margin: 0 5px;
+   }
+
+   .fifth-h {
+    position: relative;
+    top: 30px;
+    font-size: 2rem;
+    left: 0;
+    text-align: center;
+   }
+
+   .forth-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+   }
+
+   .forth-section {
+    height: 140vh;
+   }
+
+   .about-t {
+    margin-right:30px;
+   }
+
+   .my-image {
+    margin-right: 24px;
+   }
+
+   .my-cv {
+    margin-right: 40px;
+   }
+
+   .socials-containers {
+    margin-right: 50px;
+   }
+
+   .my-exprienced {
+    text-align: center;
+    margin-left: 10px;
+   }
+
+   .name {
+    margin: 5px;
+   }
+
+}
+
